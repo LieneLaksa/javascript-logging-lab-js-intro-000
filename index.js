@@ -1,1 +1,2 @@
-console.error (YALP!)
+console.error(Help!)
+console.log(Hello)
