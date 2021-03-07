@@ -1,1 +1,1 @@
-console.error (Great day!)
+console.error (YALP!)
