@@ -1,3 +1,3 @@
-console.error(Help!)
-console.log(Hello)
-console.warn(Danger)
+console.error (Help!)
+console.log (Hello)
+console.warn (Danger)
